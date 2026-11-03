@@ -1,0 +1,60 @@
+Zanop Software License Permissive, Credited, Non-commercial Use & Public Source Code Viewing
+Version 1.0
+November 3, 2026
+
+=====================================
+AUTHOR'S NOTE:
+Zanop Technologies and all of its sister projects are not liable
+for any jargon that is either misunderstood. This license is not 
+OSI (Open Source Initiative) approved. If you do not understand 
+legal jargon, please seek legal aid. This is a binding legal 
+document. By using this software, you agree to these terms.
+=====================================
+
+Copyright (c) 2026 John Adman
+
+PREAMBLE:
+
+The Zanop Software License (ZSL) is designed to ensure that software remains free for non-commercial use, while strictly protecting the original author's intellectual property. Unlike permissive open-source licenses, this license requires strict attribution and mandates that the source code of any modifications or hosted versions remain publicly viewable. It prevents corporate exploitation, SaaS loopholes, and the privatization of open source code.
+
+TERMS AND CONDITIONS:
+
+0. Definitions.
+"This License" refers to the Zanop Software License Permissive, Credited, Non-commercial Use & Public Source Code Viewing.
+"The Software" refers to the source code, documentation, and any associated files provided under this License.
+"You" refers to the individual or legal entity exercising rights under this License.
+"Modify" means to copy from or adapt all or part of the Software in a fashion requiring copyright permission, other than the making of an exact copy.
+"Commercial Use" means any use of the Software intended for or directed toward commercial advantage or monetary compensation.
+
+1. Grant of Permissions.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, and distribute the Software, subject to the conditions outlined in Sections 2 through 6.
+
+2. Credited Use Restriction.
+The Software may be used, modified, and distributed for any purpose, provided that proper and explicit credit is given to the original author(s). "Proper credit" means the inclusion of the original author's name (or designated alias), the name of the Software, and a direct link or reference to the original repository or website. This credit must be prominently displayed in any derivative works, distributions, public-facing uses of the Software, or documentation.
+
+3. Non-Commercial Restriction.
+The Software may not be used, in whole or in part, for any Commercial Use. 
+a) You may not sell the Software, or any derivative works based upon the Software.
+b) You may not use the Software to provide a paid service, including but not limited to Software-as-a-Service (SaaS), consulting, or hosting.
+c) You may not use the Software internally within a for-profit entity if the primary purpose is to generate revenue or commercial advantage.
+
+4. Public Source Code Viewing (Anti-Privatization Clause).
+If You modify the Software, or if You host the Software (or any modified version) on a network server for others to interact with, You must make the complete and corresponding source code of Your modifications publicly available and viewable. 
+a) You may not keep modified source code private.
+b) The public source code must be distributed under the exact terms of this License (ZSL).
+c) You must provide a clear, visible link to the public source code in the user interface of the hosted software.
+
+5. No Sublicensing.
+You may not sublicense the Software. Any distribution of the Software, or derivative works based upon it, must be under the terms of this exact License. You may not impose any further restrictions on the exercise of the rights granted under this License.
+
+6. Retention of Notices.
+The above copyright notice, this list of conditions, and the Author's Note must be included in all copies or substantial portions of the Software. You must not remove or alter any proprietary notices or labels on the Software.
+
+7. Termination.
+Your rights under this License will terminate automatically if You fail to comply with any of the terms and conditions herein. Upon termination, You must cease all use, distribution, and hosting of the Software and destroy all copies in your possession. The "Author's Note" and "Preamble" are non-binding context; Sections 0 through 9 are fully binding.
+
+8. Disclaimer of Warranty.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+9. Limitation of Liability.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
